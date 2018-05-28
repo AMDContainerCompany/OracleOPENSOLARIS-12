@@ -1,0 +1,11 @@
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\Oracle OPENSOLARIS-12.vbprojAssemblyReference.cache
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\App.g.i.vb
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\App.g.vb
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\MainPage.g.i.vb
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\MainPage.g.vb
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\XamlTypeInfo.g.vb
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\App.xaml
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\MainPage.xaml
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\App.xbf
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\MainPage.xbf
+C:\Users\aydua\source\repos\Oracle OPENSOLARIS-12\Oracle OPENSOLARIS-12\obj\ARM\Release\XamlSaveStateFile.xml
